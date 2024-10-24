@@ -8,7 +8,7 @@ We have uploaded different model files and configuration files. They need to be 
 You can find the dataset here https://universe.roboflow.com/uni-of-birmingham/masonry
 
 
-**Update 04/10/2004**
+**Update 04/10/2024**
 
 paper is now on https://doi.org/10.1016/j.aei.2024.102826, accepted by Advanced Engineering Informatics
 
