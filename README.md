@@ -21,3 +21,9 @@ https://pan.baidu.com/s/18tIxiOYuAJR2UYxRYGNRCw?pwd=abcd key: abcd
 SAM_selfprompter-masonry.pth
 
 https://pan.baidu.com/s/1wfA5EfhvmBTxAbWife6J4Q?pwd=abcd key: abcd
+
+**Update 22/02/2025**
+
+or
+
+https://huggingface.co/zxy239/LoRA-SAM-for-damage-detection/tree/main
